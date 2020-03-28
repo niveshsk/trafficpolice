@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "543321142762",
+    "firebase_url": "https://niveshtest.firebaseio.com",
+    "project_id": "niveshtest",
+    "storage_bucket": "niveshtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543321142762:android:d59c98104bb5c983ec2e93",
+        "android_client_info": {
+          "package_name": "com.e.trafficpolice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543321142762-nb0h9iu2aq0mp34hfbajiipggv6rnkad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e.trafficpolice",
+            "certificate_hash": "5734cae79da7814104c47880daf42716b7a7892c"
+          }
+        },
+        {
+          "client_id": "543321142762-cd35gltn3jdb3v40lk5vfb7ab161b3a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn7T3IXFgK6XUL884IVLKu-_Z4xPa3UAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543321142762-cd35gltn3jdb3v40lk5vfb7ab161b3a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
